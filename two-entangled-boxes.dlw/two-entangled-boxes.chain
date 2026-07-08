@@ -4,6 +4,6 @@ slug  : two-entangled-boxes
 seal  : 59347085097d5d50bb7b8a9ed6360f24d13f2270c72c0c6aced8cc746fcadc6f
 prev  : ebebba1d164145e25f84b60d832ab2a4736eaa283ccdbea8d767851ce8413bc9
 link  : f591e15213cb2ea7033efd1b307825218dab42a23062339baa5fa2b09f054999
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
