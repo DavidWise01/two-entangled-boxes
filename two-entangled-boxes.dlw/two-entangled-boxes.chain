@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1104
 slug  : two-entangled-boxes
-seal  : 59347085097d5d50bb7b8a9ed6360f24d13f2270c72c0c6aced8cc746fcadc6f
-prev  : ebebba1d164145e25f84b60d832ab2a4736eaa283ccdbea8d767851ce8413bc9
-link  : f591e15213cb2ea7033efd1b307825218dab42a23062339baa5fa2b09f054999
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 4a97516c2b09cec202892ae7aa032005a91b009ef8d3f3d57a254a6d747c7da0
+prev  : 833699b0bd1f0c89fc244de12f09c7d95fabca117f943aba63542f95e0a346e9
+link  : c2cb7855c3ba1bfaeac35d27f3807c9928cbd86c3a16dc2f5c30c7c74e0892bd
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
